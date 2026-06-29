@@ -50,5 +50,7 @@ Os arquivos para impressão 3D dos acessórios do produto estão disponíveis ab
 | **Dance 3** | **Dance 4** | **DBZ Car 1** | **DBZ Car 2** | **Gengar Dance** |
 | <img src="gifs/gengar.gif" width="100"> | <img src="gifs/lesma.gif" width="100"> | <img src="gifs/mcqueen.gif" width="100"> | <img src="gifs/naruto.gif" width="100"> | <img src="gifs/sharingan.gif" width="100"> |
 | **Gengar** | **Lesma** | **McQueen** | **Naruto** | **Sharingan** |
-| <img src="gifs/transformers.gif" width="100"> | | | | |
-| **Transformers** | | | | |
+| <img src="gifs/transformers.gif" width="100"> | <img src="gifs/DarthV.gif" width="100"> | <img src="gifs/Hollow%20Niko.gif" width="100"> | <img src="gifs/Mask%20Ichigo.gif" width="100"> | <img src="gifs/Porsche.gif" width="100"> |
+| **Transformers** | **DarthV** | **Hollow Niko** | **Mask Ichigo** | **Porsche** |
+| <img src="gifs/TT4x4.gif" width="100"> | | | | |
+| **TT4x4** | | | | |
