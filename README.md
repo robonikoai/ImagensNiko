@@ -52,5 +52,5 @@ Os arquivos para impressão 3D dos acessórios do produto estão disponíveis ab
 | **Gengar** | **Lesma** | **McQueen** | **Naruto** | **Sharingan** |
 | <img src="gifs/transformers.gif" width="100"> | <img src="gifs/DarthV.gif" width="100"> | <img src="gifs/Hollow%20Niko.gif" width="100"> | <img src="gifs/Mask%20Ichigo.gif" width="100"> | <img src="gifs/Porsche.gif" width="100"> |
 | **Transformers** | **DarthV** | **Hollow Niko** | **Mask Ichigo** | **Porsche** |
-| <img src="gifs/TT4x4.gif" width="100"> | <img src="gifs/Sukuna.gif" width="100"> | | | |
-| **TT4x4** | **Sukuna** | | | |
+| <img src="gifs/TT4x4.gif" width="100"> | <img src="gifs/Sukuna.gif" width="100"> | <img src="gifs/GokuAquecendo.gif" width="100"> | | |
+| **TT4x4** | **Sukuna** | **Goku** | | |
